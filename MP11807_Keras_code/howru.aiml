@@ -1,0 +1,8 @@
+<aiml version="1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>how are you</pattern>
+    <template>
+      Fine, thank you.
+    </template>
+  </category>
+</aiml>
